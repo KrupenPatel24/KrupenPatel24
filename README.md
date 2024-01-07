@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrupenPatel
-- 👀 I’m interested in backend 
+- 👀 I’m interested in backend  and frontend
 - 🌱 I’m currently learning NodeJs and Express frameWork
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
